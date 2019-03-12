@@ -5,5 +5,5 @@
 require 'pry'
 
 def roll
-  dice = rand(1,6)
+  dice = rand(1..6)
 end
