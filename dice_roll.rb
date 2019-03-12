@@ -4,6 +4,6 @@
 
 require 'pry'
 
-def dice_roll
+def roll
   dice = rand(1,6)
 end
