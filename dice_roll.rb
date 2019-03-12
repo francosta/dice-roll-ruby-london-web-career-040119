@@ -6,6 +6,4 @@ require 'pry'
 
 def roll
   dice = rand(1,6)
-  binding.pry
-  dice
 end
